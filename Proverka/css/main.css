@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+body {
+    font-family: 'Oswald', sans-serif;
+}
+body {
+    width: 1660px;
+    height: 1440px;
+    background-size: cover;
+    background: url(../img/car-3075497_1280\ 1.png)
+  }
+.nav-menu {
+    padding-top: 60px;
+}
+.active {
+    color: #5d12fd
+}
+.hover span:hover {
+    color: rgb(226, 230, 5)
+}
+.logotype {
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.logo {
+    transform: translateX(589px);
+    position:relative;
+    top: -220px
+}
+.mobile-app-text {
+    transform: translateX(589px);
+}
+p1 {
+    display: block;
+    margin-top: -210px;
+  }
+  p2 {
+    display: block;
+    margin-top: 10px;
+  }
+  p3 {
+    display: block;
+    margin-top: 10px;
+  }
+  Ul {
+    list-style: none;
+  }
+  
